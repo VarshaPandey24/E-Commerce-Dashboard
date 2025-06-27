@@ -56,7 +56,7 @@ The dashboard includes the following key components:
 
 ---
 ## Dashboard Preview
-![Dashboard Image] (PowerBI_Dashboard.png)
+![Dashboard Image](PowerBI_Dashboard.png)
 
 ---
 
