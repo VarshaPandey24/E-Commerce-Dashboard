@@ -77,7 +77,5 @@ Hi! I'm Varsha Pandey, an aspiring data analyst and developer exploring the worl
 
 # ⭐ Acknowledgements
 
-- Dataset by **Madhav**, available on [Kaggle](# ⭐ Acknowledgements
-
 - Dataset by **Madhav**, available on [Kaggle](https://www.kaggle.com/datasets/madhab/ecommerce-dataset)
 - Power BI tutorials and community resources that helped me build this project
