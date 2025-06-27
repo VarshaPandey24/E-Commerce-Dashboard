@@ -55,6 +55,10 @@ The dashboard includes the following key components:
 - **Slicers/Filters**: Year,Quarters
 
 ---
+## Dashboard Preview
+![Dashboard Image] (PowerBI_Dashboard.png)
+
+---
 
 ## 🚀 How to Use
 
