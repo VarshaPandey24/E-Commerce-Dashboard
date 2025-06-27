@@ -62,7 +62,7 @@ To explore the dashboard on your local machine:
 
 1. Clone this repository
 2. Install [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/)
-3. Open the Power BI file: `EcommerceDashboard.pbix`
+3. Open the Power BI file: `E-Commerce_Dashboard.pbix`
 4. Use filters and visuals to explore insights
 
 ---
